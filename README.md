@@ -1,2 +1,2 @@
-# DataStructureInJava
-Data Structure Algorithms coding in java
+# DataStructuresInJava
+Data Structures Algorithms coding in java
